@@ -5,6 +5,7 @@
 ### Стэк
 
 #### <pre>![Vue logo](public/image-1.png) Vue3 (VueRouter,Pinia)
+#### <pre>![Naive UI logo](public/image-8.png) Naive UI
 #### <pre>![Vite logo](public/image-2.png) Vite
 #### <pre>![TypeScript logo](public/image-3.png) TypeScript
 #### <pre>![Project Gutenberg logo](public/image-4.png) JSON web API for Project [Gutenberg](https://gutendex.com/) ebook metadata
